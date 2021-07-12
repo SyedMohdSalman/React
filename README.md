@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+The web app is hosted on 000webhost!!
+Website link-https://dashsmsa.000webhostapp.com/
+The web app can also be run on localhost using vscode.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
